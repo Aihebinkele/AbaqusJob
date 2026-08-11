@@ -113,7 +113,5 @@ A: `pip install openpyxl`
 **Q: Log shows Chinese garbled characters**  
 A: Known display issue with Abaqus Python 2.7 encoding. Does not affect functionality.
 
-## Author
-
 
 [GitHub: Aihebinkele](https://github.com/Aihebinkele)
