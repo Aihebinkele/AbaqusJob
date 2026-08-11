@@ -115,5 +115,5 @@ A: Known display issue with Abaqus Python 2.7 encoding. Does not affect function
 
 ## Author
 
-**Cui Davis** — Inventec (IES15C172)  
+
 [GitHub: Aihebinkele](https://github.com/Aihebinkele)
