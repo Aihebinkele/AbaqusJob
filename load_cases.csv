@@ -1,0 +1,13 @@
+Initial,Initial,Initial,Initial,Step-2,Step-2,Step-2,Step-2
+Model,offset1,offset2,offset3,Load-4,Load-3,Load-3,Load-3
+HA5EA,"HS,HSG,HSG_CH,LM,DQ",,,mag,cf1,cf2,cf3
+HA5EA-1-L1,0,0,0,0,21,8,2344
+HA5EA-1-L2,0,0,50,0,23,12,2206
+HA5EA-1-L3,0,0,100,0,26,18,2015
+HA5EA-2-L1,0,0,-50,0,-9,-12,-3101
+HA5EA-2-L2,0,0,-100,0,-10,-14,-4343
+HA5EA-2-L3,0,0,0,0,-12,-16,-5797
+HA5EA-3-L1,0,0,0,0,3,-28,4289
+HA5EA-3-L2,0,0,0,0,3,-29,4535
+HA5EA-3-L3,0,0,0,0,2,-31,4812
+HA5EA-6-L1,0,0,0,22925,4,30,3

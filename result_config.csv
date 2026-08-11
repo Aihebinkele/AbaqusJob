@@ -1,0 +1,4 @@
+instance_name,step_name,set_name,result_type
+PART-1-1,Step-1,ALL,S:Mises
+PART-1-1,Step-1,ALL,PEEQ
+PART-1-1,Step-1,ALL,U:Mag
